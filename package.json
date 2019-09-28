@@ -14,7 +14,6 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "http://weibenfalk.com/sw_lexicon/",
   "browserslist": [
     ">0.2%",
     "not dead",
